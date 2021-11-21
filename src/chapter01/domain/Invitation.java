@@ -1,4 +1,4 @@
-package domain;
+package chapter01.domain;
 
 import java.time.LocalDateTime;
 

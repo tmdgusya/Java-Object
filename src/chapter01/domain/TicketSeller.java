@@ -1,4 +1,4 @@
-package domain;
+package chapter01.domain;
 
 public class TicketSeller {
 

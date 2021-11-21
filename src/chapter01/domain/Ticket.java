@@ -1,4 +1,4 @@
-package domain;
+package chapter01.domain;
 
 /**
  * 공연을 보는데 필요한 Ticket

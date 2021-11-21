@@ -1,4 +1,4 @@
-package domain;
+package chapter01.domain;
 
 /**
  * 관람객이 소지품을 보관하고 있는 Bag
